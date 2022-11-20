@@ -18,6 +18,9 @@ To use this program you will need pygraphviz. The installation give can by found
 * Give the program the path to your CSV file with edge information
 * Done! you should have the files 'cities.dot' and 'cities.png' in your current working directory
 
+<img src="exampleExcecution.png" width=550/>
+
+
 ## Acknowledgments
 
 * [README-Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
